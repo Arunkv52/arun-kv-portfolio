@@ -1,0 +1,96 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "arunkbva@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:arunkbva@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 96593 85880",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:9659385880"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "GitHub",
+        "icon": "/images/icon/github.svg",
+        "link": "https://github.com/Arunkv52"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin.svg",
+        "link": "https://www.linkedin.com/in/arun-kbva-kv12/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Builders Engineering College - 2014 to 2018",
+        "Course" : "Bachelor of Engineering (CSE)",
+        "description": "Gained a strong foundation in computer science principles, including programming, data structures, databases, operating systems, and software development. Worked on academic projects, enhanced problem-solving skills, and built hands-on experience in coding and web technologies. Actively participated in technical activities, workshops, and team projects that strengthened my understanding of real-world software development practices."
+      }
+     
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Photoshop",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Sketch",
+        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Adobe XD",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Framer",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Invasion",
+        "icon": "/images/home/education-skill/invision-icon.svg",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Linkedin",
+        "href": "https://www.linkedin.com/in/arun-kbva-kv12/"
+      },
+      {
+        "title": "Github",
+        "href": "https://github.com/Arunkv52"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "arunkbva@gmail.com",
+        "link": "mailto:arunkbva@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9659385880",
+        "link": "tel:+919659385880"
+      }
+    ]
+  }
+}

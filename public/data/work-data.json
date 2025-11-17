@@ -1,0 +1,46 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/portfolio-isuzu.png",
+      "title": "UI Design & Development",
+      "client": "Isuzu India Pvt Ltd",
+      "slug": "Web Development",
+      "link" : "https://www.isuzu.in/"
+    },
+    {
+      "image": "/images/work/sales-dash.png",
+      "title": "Web Application Development",
+      "client": "Prism Adverto Pvt Ltd",
+      "slug": "Web Apps",
+      "link" : "https://admin.prismadverto.in/"
+    },
+    {
+      "image": "/images/work/lehaza-dash.png",
+      "title": "E Commerce Website",
+      "client": "Lehaza fashions",
+      "slug": "fashion-website-template",
+      "link" : "https://lehazafashions.com/"
+    },
+    {
+      "image": "/images/work/marine.png",
+      "title": "Website Development",
+      "client": "Master Afloat - Singapore",
+      "slug": "book-cover-design",
+      "link" : "https://master-afloat-website.vercel.app/"
+    },
+    {
+      "image": "/images/work/weather-app.png",
+      "title": "Weather Apps",
+      "client": "prism Adverto Pvt Ltd",
+      "slug": "Weather",
+      "link" : "https://weather-app-coral-nine-27.vercel.app/"
+    },
+    {
+      "image": "/images/work/prism-adverto.png",
+      "title": "Website Development",
+      "client": "Prism Adverto Pvt Ltd",
+      "slug": "prism Adverto",
+      "link" : "https://www.prismadverto.com/"
+    }
+  ]
+}
