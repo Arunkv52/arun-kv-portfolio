@@ -63,7 +63,7 @@ button:hover::before {
 
 @layer utilities {
   .container {
-    @apply w-full max-w-[80rem] mx-auto mt-0 mb-0 py-0 sm:px-7 px-5;
+    @apply w-full max-w-7xl mx-auto mt-0 mb-0 py-0 sm:px-7 px-5;
   }
   .label {
     @apply text-secondary text-sm font-normal;
