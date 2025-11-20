@@ -42,7 +42,7 @@ const ContactBar = () => {
                       alt={value?.type}
                       width={24}
                       height={24}
-                      className="min-w-[24px] min-h-[24px]"
+                      className="min-w-6 min-h-6"
                     />
 
                     <h6 className="text-sm md:text-base xl:text-xl hover:text-primary">
